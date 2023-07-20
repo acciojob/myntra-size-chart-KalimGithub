@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.table-1{
+	border:1px solid black;
+}
+td{
+	padding: 30px;
+}
